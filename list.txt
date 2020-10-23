@@ -5,7 +5,6 @@ HKC電影台,tvbus://6HHVQLYnbh2Bw8tfG3Nt97roei6GDcJgnXczuxZ4iGwmJcbh9EzGJgWviK6
 HKC新聞台,tvbus://5KXsErRUrgRpRJU4sXpNhdZ3K7EX7Zfd1wcaytmrsTknUQ1Dn4MDHEPYmauQo$tvbus#,
 NOW新闻台,tvbus://5z9iVBi34FWnh4bXn1obe87mAfpgATGrBfv8Vx3LNtvAH8EqGH5x3h7xbuzeM$tvbus#,
 寰宇新闻台,tvbus://6JKuKpFKftPN5faMaHje6597pVufZ44XiP8oC8uGCmw12E2XX1VNho9cNnR2c$tvbus#,
-
 HKC新闻台,http://livetv.dnsfor.me/channel.5.m3u8
 HKC财经台,http://livetv.dnsfor.me/channel.6.m3u8
 HKC娱乐台,http://livetv.dnsfor.me/channel.7.m3u8
