@@ -1,1 +1,51 @@
-111
+HKC財經台,tvbus://63fvA6r71HaVvqPntBHZTgkkC3QsCGaNu2YJgcDPQ7rtxTwQzys6ucgQRo4fV$tvbus#,
+HKC娛樂台,tvbus://6HBjDrhcqo2RGExPNhuQfyD5rkfK3J42wyE15qS7yn116KoJ9y93svdXDPVhK$tvbus#,
+HKC電影台,tvbus://6HHVQLYnbh2Bw8tfG3Nt97roei6GDcJgnXczuxZ4iGwmJcbh9EzGJgWviK6AW$tvbus#,
+HKC新聞台,tvbus://5KXsErRUrgRpRJU4sXpNhdZ3K7EX7Zfd1wcaytmrsTknUQ1Dn4MDHEPYmauQo$tvbus#,
+NOW新闻台,tvbus://5z9iVBi34FWnh4bXn1obe87mAfpgATGrBfv8Vx3LNtvAH8EqGH5x3h7xbuzeM$tvbus#,
+寰宇新闻台,tvbus://6JKuKpFKftPN5faMaHje6597pVufZ44XiP8oC8uGCmw12E2XX1VNho9cNnR2c$tvbus#,
+
+HKC新闻台,http://livetv.dnsfor.me/channel.5.m3u8
+HKC财经台,http://livetv.dnsfor.me/channel.6.m3u8
+HKC娱乐台,http://livetv.dnsfor.me/channel.7.m3u8
+TVB新闻台,http://livetv.dnsfor.me/channel.10.m3u8
+Now新闻台,http://teslagram.com/live/channel_332.m3u8
+三立INews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
+
+
+
+日テレ NEWS24,https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+NHK総合-大阪,p8p://0198.02686.cc:16871/5d414f6c00077b3d75f7a96d657b07ca.ts
+テレビ东京,p8p://0198.02686.cc:16871/5d414f6b000b4fb575f7a680e13a94ee.ts
+テレビ朝日,p8p://0198.02686.cc:16871/5d414f6a000606ea75f7a13e185ff3ac.ts
+TBSP,p8p://0198.02686.cc:16871/5d414f6b0000da6d75f7a3d306a9cc7f.ts
+日テレ,p8p://0198.02686.cc:16871/5d414f69000b12b375f79ea00d680a47.ts
+NHKEテレ东京,p8p://0198.02686.cc:16871/5d414f68000e596775f79b8f963b1f60.ts
+NHK総合-东京,p8p://0198.02686.cc:16871/5d414f680002d76075f7989dcc8ec320.ts
+日テレジータス,p8p://0198.02686.cc:16871/5d414e7e0000d57575f406097529becf.ts
+TOKYO　MX,p8p://0198.02686.cc:16871/5d414e7c00096eb975f4006de34ca37e.ts
+フジテレビ,p8p://0198.02686.cc:16871/5d414e7b000d387e75f3fd7d08f4d2ce.ts
+NHK华语视界,
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wiip/playlist.m3u8
+
+
+CCTV5HD,http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+
+CCTV13HD,http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+CCTV13HD,http://117.136.154.88:80/PLTV/88888888/224/3221225510/index.m3u8
+
+CCTV4K超高清,http://117.148.187.56:80/PLTV/88888888/224/3221226758/1.m3u8
+CCTV4K超高清,http://27.36.62.162:9090/live/CCTVHHD4K_38000.m3u8
+CCTV4K超高清,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
+CCTV4K超高清,http://hwltc.tv.cdn.zj.chinamobile.com/pltv/88888888/224/3221229373/index.m3u8?fmt=ts2hls
+CCTV4K超高清,http://39.135.97.94/wh7f454c46tw965975784_1192599104/PLTV/88888888/224/3221226758/1.m3u8
+bestTV 4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+bestTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
+纯享4K,http://112.50.243.7/PLTV/88888888/224/3221226825/1.m3u8
+纯享4K,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+DOX4K,http://27.36.62.162:9090/live/dox4k_16000.m3u8
+爱上4K,rtsp://61.156.103.73:554/PLTV/88888888/224/3221226315/10000100000000060000000000533024_0.smil
+咪咕4K,http://39.134.52.180/PLTV/88888888/224/3221226162/index.m3u8
+咪咕4K,http://39.134.52.153/PLTV/88888888/224/3221226158/1.m3u8
+咪咕4K,http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
