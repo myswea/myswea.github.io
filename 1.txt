@@ -1,4 +1,4 @@
-= 未分组 =
+IN,#genre#
 松鼠台[1280*720],https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
 松视1[1280*720],https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462545.m3u8
 松视1[1280*720],https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
