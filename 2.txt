@@ -1,1 +1,3 @@
-无线新闻,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
+测试,#genre#
+无线新闻1,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
+无线新闻2,http://520574.xyz/dl/tvb.php?id=wxhd
