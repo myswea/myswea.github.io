@@ -1,3 +1,7 @@
 测试,#genre#
 无线新闻1,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
 无线新闻2,http://520574.xyz/dl/tvb.php?id=wxhd
+无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
+now新闻台,p8p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b
+now直播台,p8p://0198.02686.cc:16871/5f2cb8a50005cce1172a735005454a58
