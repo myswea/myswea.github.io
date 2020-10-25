@@ -11,6 +11,10 @@ HKC娱乐台,http://livetv.dnsfor.me/channel.7.m3u8
 TVB新闻台,http://livetv.dnsfor.me/channel.10.m3u8
 Now新闻台,http://teslagram.com/live/channel_332.m3u8
 三立INews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
+无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
+now新闻台,p8p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b
+
 日本,#genre#
 日テレ NEWS24,https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 NHK総合-大阪,p8p://0198.02686.cc:16871/5d414f6c00077b3d75f7a96d657b07ca.ts
