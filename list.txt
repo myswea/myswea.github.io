@@ -1,5 +1,5 @@
 香港,#genre#
-now新闻台,http://livetv.dnsfor.me/channel.12.m3u8
+now新闻台,http://livetv.dnsfor.me/channel.4.m3u8
 now体育台,http://livetv.dnsfor.me/channel.12.m3u8
 HKC新闻台,http://livetv.dnsfor.me/channel.5.m3u8
 HKC财经台,http://livetv.dnsfor.me/channel.6.m3u8
