@@ -8,6 +8,7 @@ TVB新闻台,http://livetv.dnsfor.me/channel.10.m3u8
 TVB财经资讯台,http://livetv.dnsfor.me/channel.11.m3u8
 TVB翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
 TVBJ2,http://livetv.dnsfor.me/channel.19.m3u8
+VIVTV,http://livetv.dnsfor.me/channel.20.m3u8
 三立INews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 香港(备用),#genre#
 Now新闻台,http://teslagram.com/live/channel_332.m3u8
