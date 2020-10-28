@@ -22,3 +22,6 @@ CCTV-13新闻,http://39.135.135.58/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3
 凤凰资讯,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 凤凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+纬来日本,p8p://user3.shusongw.mobi:16871/5d8b6caa00035a0b14c1c834b40e4885
+纬来日本,mitv://147.135.39.171:9906/5e9b449a0002edbbb418f850343a565d.ts
+纬来体育,mitv://147.135.39.171:9906/5e9b4499000c2343b418f6ba6f8227e4.ts
