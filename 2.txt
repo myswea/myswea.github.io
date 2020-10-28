@@ -14,6 +14,8 @@ BesTV4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 海看4K,http://120.221.5.175:8089/PLTV/88888888/224/3221225833/index.m3u8
 海看4K,http://120.221.5.176:8089/PLTV/88888888/224/3221225833/index.m3u8
 河南4k,http://39.134.230.196:9090/39.134.213.85/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226162/index.m3u8
+Dox4k,https://t.me/tvbox002/276801
+咪咕4K HDR,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
 Bestv轮播,http://520574.xyz/dl/migu.php?id=639528181
 bestv高清影视,http://520574.xyz/dl/migu.php?id=617432318
 纯享4K,http://ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
