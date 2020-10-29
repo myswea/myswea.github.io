@@ -10,28 +10,15 @@ TVB翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
 TVBJ2,http://livetv.dnsfor.me/channel.19.m3u8
 VIVTV,http://livetv.dnsfor.me/channel.20.m3u8
 三立INews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
-寰宇新闻,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
-寰宇新闻,p8p://user3.shusongw.mobi:16871/5f37f9150000be1a431e27852b683e83
-香港(备用),#genre#
-Now新闻台,http://teslagram.com/live/channel_332.m3u8
-无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-无线新闻台,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
-无线新闻台,http://520574.xyz/dl/tvb.php?id=wxhd
-无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
-now新闻台,p8p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b
-now直播台,p8p://0198.02686.cc:16871/5f2cb8a50005cce1172a735005454a58
+now新闻台,http://teslagram.com/live/channel_332.m3u8
+
 日本,#genre#
 日テレ NEWS24,https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
-NHK総合-大阪,p8p://0198.02686.cc:16871/5d414f6c00077b3d75f7a96d657b07ca.ts
+NHK総合,p8p://0198.02686.cc:16871/5d414f6c00077b3d75f7a96d657b07ca.ts
 テレビ东京,p8p://0198.02686.cc:16871/5d414f6b000b4fb575f7a680e13a94ee.ts
 テレビ朝日,p8p://0198.02686.cc:16871/5d414f6a000606ea75f7a13e185ff3ac.ts
 TBS,p8p://0198.02686.cc:16871/5d414f6b0000da6d75f7a3d306a9cc7f.ts
 日テレ,p8p://0198.02686.cc:16871/5d414f69000b12b375f79ea00d680a47.ts
-NHKEテレ东京,p8p://0198.02686.cc:16871/5d414f68000e596775f79b8f963b1f60.ts
-NHK総合-东京,p8p://0198.02686.cc:16871/5d414f680002d76075f7989dcc8ec320.ts
-日テレジータス,p8p://0198.02686.cc:16871/5d414e7e0000d57575f406097529becf.ts
-TOKYO　MX,p8p://0198.02686.cc:16871/5d414e7c00096eb975f4006de34ca37e.ts
 フジテレビ,p8p://0198.02686.cc:16871/5d414e7b000d387e75f3fd7d08f4d2ce.ts
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wiip/playlist.m3u8
 
