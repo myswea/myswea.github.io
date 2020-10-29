@@ -15,8 +15,12 @@ VIVTV,http://livetv.dnsfor.me/channel.20.m3u8
 香港(备用),#genre#
 Now新闻台,http://teslagram.com/live/channel_332.m3u8
 无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+无线新闻台,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
+无线新闻台,http://520574.xyz/dl/tvb.php?id=wxhd
+无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
 now新闻台,p8p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b
+now直播台,p8p://0198.02686.cc:16871/5f2cb8a50005cce1172a735005454a58
 日本,#genre#
 日テレ NEWS24,https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 NHK総合-大阪,p8p://0198.02686.cc:16871/5d414f6c00077b3d75f7a96d657b07ca.ts
@@ -30,22 +34,4 @@ NHK総合-东京,p8p://0198.02686.cc:16871/5d414f680002d76075f7989dcc8ec320.ts
 TOKYO　MX,p8p://0198.02686.cc:16871/5d414e7c00096eb975f4006de34ca37e.ts
 フジテレビ,p8p://0198.02686.cc:16871/5d414e7b000d387e75f3fd7d08f4d2ce.ts
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wiip/playlist.m3u8
-大陆,#genre#
-CCTV5HD,http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
-CCTV5HD,http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
-CCTV13HD,http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
-CCTV13HD,http://117.136.154.88:80/PLTV/88888888/224/3221225510/index.m3u8
-4K,#genre#
-CCTV4K超高清,http://117.148.187.56:80/PLTV/88888888/224/3221226758/1.m3u8
-CCTV4K超高清,http://27.36.62.162:9090/live/CCTVHHD4K_38000.m3u8
-CCTV4K超高清,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
-CCTV4K超高清,http://hwltc.tv.cdn.zj.chinamobile.com/pltv/88888888/224/3221229373/index.m3u8?fmt=ts2hls
-CCTV4K超高清,http://39.135.97.94/wh7f454c46tw965975784_1192599104/PLTV/88888888/224/3221226758/1.m3u8
-bestTV 4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-bestTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
-纯享4K,http://112.50.243.7/PLTV/88888888/224/3221226825/1.m3u8
-纯享4K,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-咪咕4K,http://39.134.52.180/PLTV/88888888/224/3221226162/index.m3u8
-咪咕4K,http://39.134.52.153/PLTV/88888888/224/3221226158/1.m3u8
-咪咕4K,http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
+
