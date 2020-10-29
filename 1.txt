@@ -4,23 +4,4 @@ IN,#genre#
 松视1[1280*720],https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
 星颖[1280*720],https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
 星颖[1280*720],https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462553.m3u8
-俄罗斯[1280*720],http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
-JASMIN[1280*720],http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w.m3u8
-Miami TV Latino (18+)[1280*720],http://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_b2592000.m3u8
-happy[1280*720][1280*720],https://717616144.r.worldssl.net/717616144/tv/ttv12/media-u1ccux5o7_w1523462550_12537.m3u8
-松视1[1280*720][1280*720],https://717616144.r.worldssl.net/717616144/tv/ttv11/media-u7n7u13fd_w1523462549_12518.m3u8
-松视一台[1280*720][1280*720],https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
-松视1欧美版[1324*720][1280*720],http://live.redtraffic.xyz:80/fetish.m3u8
-松视3欧美版[1280*720][1280*720],http://live.redtraffic.xyz:80/bigtits.m3u8
-松视4欧美版[1280*720][1280*720],http://live.redtraffic.xyz:80/bigdick.m3u8
-K频道欧美版[1287*720][1280*720],http://live.redtraffic.xyz:80/threesome.m3u8
-惊艳台欧美版[1280*749][1280*720],http://live.redtraffic.xyz:80/cuckold.m3u8
-HOT欧美版[1280*720][1280*720],http://live.redtraffic.xyz:80/hardcore.m3u8
-玩美台欧美版[1280*720][1280*720],http://live.redtraffic.xyz:80/pov.m3u8
-松视1欧美版[1280*720][1280*720],http://live.redtraffic.xyz:80/fetish.m3u8
-松视3欧美版[1280*720][1280*720],http://live.redtraffic.xyz:80/bigtits.m3u8
-松视4欧美版[1280*720][1280*720],http://live.redtraffic.xyz:80/bigdick.m3u8
-K频道欧美版[1280*720][1280*720],http://live.redtraffic.xyz:80/threesome.m3u8
-惊艳台欧美版[1280*720][1280*720],http://live.redtraffic.xyz:80/cuckold.m3u8
-HOT欧美版[1280*720][1280*720],http://live.redtraffic.xyz:80/hardcore.m3u8
-玩美台欧美版[1280*720][1280*720],http://live.redtraffic.xyz:80/pov.m3u8
+
