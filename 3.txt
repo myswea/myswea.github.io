@@ -59,11 +59,11 @@ CCTV-17农业,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 CCTV-4K超清,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 衛視頻道,#genre#
 港澳頻道,#genre#
-Viu TV1,mitv://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts
-Viu TV2,mitv://147.135.39.171:9906/5d9a2e7c0000af799cc0d74673341867.ts
-TVB J2,mitv://147.135.39.171:9906/5defdab5000c62a56ea0b90a0b532a03.ts
+Viu TV1,p2p://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts
+Viu TV2,p2p://147.135.39.171:9906/5d9a2e7c0000af799cc0d74673341867.ts
+TVB J2,p2p://147.135.39.171:9906/5defdab5000c62a56ea0b90a0b532a03.ts
 TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-TVB翡翠,mitv://147.135.39.171:9906/5f29b38e0002c26d622cbe2d7ef03624.ts
+TVB翡翠,p2p://147.135.39.171:9906/5f29b38e0002c26d622cbe2d7ef03624.ts
 TVB翡翠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVB翡翠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
 TVB翡翠,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
@@ -80,8 +80,8 @@ TVB明珠,vjms://58.215.133.154:8500:3502/live/cid=367
 有线新闻,http://demo.easydss.com:10080/vhls/jIZb3kvGg/jIZb3kvGg_live.m3u8
 点掌财经,http://cclive.aniu.tv/live/anzb.m3u8
 臺灣頻道,#genre#
-mio体育,mitv://147.135.39.171:9906/5d6b7e97000f0537e0d92571650c0e7a.ts
-mio体育,mitv://147.135.39.171:9906/5d761ef6000df28e0f9a40de2c3d62bb.ts
+mio体育,p2p://147.135.39.171:9906/5d6b7e97000f0537e0d92571650c0e7a.ts
+mio体育,p2p://147.135.39.171:9906/5d761ef6000df28e0f9a40de2c3d62bb.ts
 ELTA体育,p8p://user3.shusongw.mobi:16871/5f37fe5f000e039f4332d3fa26419fbb
 民视,p8p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10.ts
 民视,mitv://147.135.39.171:9906/5ea4852c00050ce0d83d456d45c920f7.ts
@@ -91,7 +91,7 @@ ELTA体育,p8p://user3.shusongw.mobi:16871/5f37fe5f000e039f4332d3fa26419fbb
 八大第一,p8p://user3.shusongw.mobi:16871/5f2e57da0005d0d41d805a59362e19d4
 八大第一,mitv://147.135.39.171:9906/5e9e749b00040aaac08c7c7774062e4f.ts
 八大戏剧,mitv://147.135.39.171:9906/5e9e749a0007249ec08c795a648451d4.ts
-寰宇新闻,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
+寰宇新闻,p2p://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
 寰宇新闻,p8p://user3.shusongw.mobi:16871/5f37f9150000be1a431e27852b683e83
 寰宇台湾,p8p://user3.shusongw.mobi:16871/5f37fc2300084aea432a1823161b739d
 星卫电影,p8p://user3.shusongw.mobi:16871/5f37c890000d9cd54260a3480355f72a
