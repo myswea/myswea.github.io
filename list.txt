@@ -12,7 +12,7 @@ VIVTV,http://livetv.dnsfor.me/channel.20.m3u8
 三立INews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 now新闻台,http://teslagram.com/live/channel_332.m3u8
 寰宇新闻,p2p://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
-寰宇新闻,p2p://user3.shusongw.mobi:16871/5f37f9150000be1a431e27852b683e83
+
 
 日本,#genre#
 日テレ NEWS24,https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
