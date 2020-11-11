@@ -1,17 +1,4 @@
-香港,#genre#
-now新闻台,http://livetv.dnsfor.me/channel.4.m3u8
-now体育台,http://livetv.dnsfor.me/channel.12.m3u8
-HKC新闻台,http://livetv.dnsfor.me/channel.5.m3u8
-HKC财经台,http://livetv.dnsfor.me/channel.6.m3u8
-HKC娱乐台,http://livetv.dnsfor.me/channel.7.m3u8
-TVB新闻台,http://livetv.dnsfor.me/channel.10.m3u8
-TVB财经资讯台,http://livetv.dnsfor.me/channel.11.m3u8
-TVB翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
-TVBJ2,http://livetv.dnsfor.me/channel.19.m3u8
-VIVTV,http://livetv.dnsfor.me/channel.20.m3u8
-三立INews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
-now新闻台,http://teslagram.com/live/channel_332.m3u8
-寰宇新闻,p2p://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
+
 
 
 日本,#genre#
