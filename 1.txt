@@ -5,7 +5,7 @@ IN,#genre#
 星颖[1280*720],https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
 星颖[1280*720],https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462553.m3u8
 
-會員影視_20201001,#genre#
+會員影視
 妈妈的朋友们2,http://youku1.dianfubang.com/20190222/kNaLwaun/index.m3u8
 五十度灰未删减,http://youku1.dianfubang.com/20191111/saE1iW8W/index.m3u8
 年轻的嫂子2,http://youku1.dianfubang.com/20190222/ySXdoNPk/index.m3u8
